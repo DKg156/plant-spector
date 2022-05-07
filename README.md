@@ -4,7 +4,8 @@ Dataset used: Plant Village (https://www.kaggle.com/datasets/emmarex/plantdiseas
 Models used:
 * ResNet-50 (Disease Classification)
 * EDSR (Image super-resolution) 
-
+<br>
+<br>
 
 ![image](https://user-images.githubusercontent.com/42437054/167246690-e5e044a1-b58a-4d2d-a9b9-c7c436a6e330.png)
 
