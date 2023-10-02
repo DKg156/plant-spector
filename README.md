@@ -59,6 +59,8 @@ CNN Models used:
 
 ![image](https://user-images.githubusercontent.com/42437054/167246954-fd165394-e212-434b-a785-03cca5adb2bf.png)
 
+Exceptions handled
+
 ![image](https://user-images.githubusercontent.com/42437054/167246956-44b3c1f0-8bd5-4766-9551-08e472f260dc.png)
 
 ![image](https://user-images.githubusercontent.com/42437054/167246959-fc8e324d-047b-4d33-ae62-c7020cc1ecc6.png)
